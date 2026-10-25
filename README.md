@@ -292,4 +292,4 @@ yarn script stake -a 1000000000 -e devnet -k ./keys/user.json
 
 ## Contract
 
-fiv3fingers.dev@gmail.com
+[Telegram](https://t.me/fiv3dev)
